@@ -1,0 +1,22 @@
+{
+  "name": "full-stack_dev",
+  "version": "1.0.0",
+  "description": "\"Test directory for node\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThapeloMasasa/Cousera-full-stack.git"
+  },
+  "author": "Masasa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThapeloMasasa/Cousera-full-stack/issues"
+  },
+  "homepage": "https://github.com/ThapeloMasasa/Cousera-full-stack#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
