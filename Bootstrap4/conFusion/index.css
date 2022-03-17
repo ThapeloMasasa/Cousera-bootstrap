@@ -18,7 +18,7 @@
 .jumbotron{
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
-    background: #9575CD;
+    background: #bb8df0;
     color: floralwhite;
 }
 
@@ -26,4 +26,8 @@
     font-size: 80%;
     margin: 0px;
     color :#0f0f0f;
+}
+
+.navbar-dark{
+    background-color: #512DA8;
 }
