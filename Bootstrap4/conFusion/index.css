@@ -31,3 +31,9 @@
 .navbar-dark{
     background-color: #512DA8;
 }
+.card-header,.btn-top{
+    background-color: orange;
+}
+span{
+    margin-right: 15px;
+}
