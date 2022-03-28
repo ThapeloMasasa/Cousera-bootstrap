@@ -49,3 +49,19 @@ span{
     left: 0;
     min-height: 300px;
 }
+
+#section {
+    padding-right: 0;
+    padding-left: 0;
+    
+}
+#reserve{
+    color: white;
+}
+#smoking{
+    background-color: red;
+}
+#non-smoking{
+    background-color: green;
+}
+ 
