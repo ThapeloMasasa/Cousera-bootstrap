@@ -64,4 +64,9 @@ span{
 #non-smoking{
     background-color: green;
 }
+#carouselButton{
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}
  
